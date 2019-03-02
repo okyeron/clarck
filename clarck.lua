@@ -1,6 +1,5 @@
--- clARCk port
--- an arc clock
---
+-- clARCk
+-- a clock for arc4
 --
 -- based on maxpat by JP
 -- https://github.com/monome-community/collected/tree/master/clarck
