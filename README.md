@@ -1,5 +1,5 @@
 # clARCk
-a clock for arc on norns
+a clock for arc4 on norns
 
-original maxpat by JP
+based on a maxpat by JP
 https://github.com/monome-community/collected/tree/master/clarck
