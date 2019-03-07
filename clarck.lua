@@ -1,7 +1,9 @@
 -- clARCk
--- a clock for arc4
+-- @okyeron
 --
+-- a clock for arc4
 -- based on maxpat by JP
+
 -- https://github.com/monome-community/collected/tree/master/clarck
 
 
